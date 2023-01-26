@@ -1,2 +1,7 @@
 flask
 docx
+gunicorn
+uvicorn
+flask_restful
+flask_cors
+dnspython
